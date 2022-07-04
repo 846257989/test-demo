@@ -3,6 +3,7 @@ public class HelloWorld {
         for (int i = 0; i < 10; i++) {
             System.out.println("HelloWorld");
             System.out.println(123);
+            System.out.println("芜湖");
         }
     }
 }
